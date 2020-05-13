@@ -1,0 +1,3 @@
+rootProject.name='financekg'
+include ':app'
+include ':Core'
